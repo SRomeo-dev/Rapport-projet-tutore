@@ -1,0 +1,22 @@
+.elementor-71783 .elementor-element.elementor-element-4069d77 > .elementor-container{min-height:100px;}.elementor-71783 .elementor-element.elementor-element-4069d77{margin-top:0px;margin-bottom:0px;}.elementor-71783 .elementor-element.elementor-element-7f23c0b .breadcrumb{text-align:left;font-family:"Avenir", Sans-serif;font-size:16px;font-weight:400;line-height:1.2em;color:var( --e-global-color-primary );}.elementor-71783 .elementor-element.elementor-element-7f23c0b .breadcrumb a{color:var( --e-global-color-primary );}.elementor-71783 .elementor-element.elementor-element-7f23c0b .breadcrumb a:hover{color:var( --e-global-color-secondary );}.elementor-71783 .elementor-element.elementor-element-7f23c0b > .elementor-widget-container{padding:1px 1px 1px 1px;}.elementor-71783 .elementor-element.elementor-element-3702325{z-index:-1;}.elementor-71783 .elementor-element.elementor-element-0d9372e{padding:0px 0px 60px 0px;}.elementor-71783 .elementor-element.elementor-element-8fdf5ef .elementor-icon-list-icon i{color:var( --e-global-color-5d20357 );font-size:16px;}.elementor-71783 .elementor-element.elementor-element-8fdf5ef .elementor-icon-list-icon svg{fill:var( --e-global-color-5d20357 );--e-icon-list-icon-size:16px;}.elementor-71783 .elementor-element.elementor-element-8fdf5ef .elementor-icon-list-icon{width:16px;}.elementor-71783 .elementor-element.elementor-element-8fdf5ef .elementor-icon-list-text, .elementor-71783 .elementor-element.elementor-element-8fdf5ef .elementor-icon-list-text a{color:var( --e-global-color-text );}.elementor-71783 .elementor-element.elementor-element-8fdf5ef .elementor-icon-list-item{font-family:"Avenir", Sans-serif;font-size:16px;font-weight:600;line-height:1.2em;}.elementor-71783 .elementor-element.elementor-element-a61e5b3 > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-71783 .elementor-element.elementor-element-31b4caa{padding:0px 0px 60px 0px;}.elementor-71783 .elementor-element.elementor-element-a983cb3{text-align:left;}.elementor-71783 .elementor-element.elementor-element-a983cb3 .elementor-heading-title{font-family:"Avenir", Sans-serif;font-size:24px;font-weight:600;line-height:1.2em;}.elementor-71783 .elementor-element.elementor-element-f4d3d1c > .elementor-widget-container{margin:0px 0px 30px 0px;}@media(max-width:1024px){.elementor-71783 .elementor-element.elementor-element-0d9372e{padding:0px 0px 30px 0px;}.elementor-71783 .elementor-element.elementor-element-31b4caa{padding:0px 0px 30px 0px;}}/* Start custom CSS for sp-breadcrumbs, class: .elementor-element-7f23c0b */.elementor-71783 .elementor-element.elementor-element-7f23c0b a{
+    font-weight: 600;
+}
+
+.elementor-71783 .elementor-element.elementor-element-7f23c0b .breadcrumb{
+    padding: 0;
+}/* End custom CSS */
+/* Start custom CSS for html, class: .elementor-element-3702325 */.elementor-71783 .elementor-element.elementor-element-3702325 .backgound_top_right{
+    width: 800px;
+    height: 985px;
+    border-radius: 10px 10px 10px 250px;
+    transform: rotate(-40deg);
+    background-color: #F9F8FF;
+    position: absolute;
+    right: -255px;
+    top: -575px;
+    z-index: 0;
+    
+}/* End custom CSS */
+/* Start custom CSS for post-info, class: .elementor-element-8fdf5ef */.elementor-71783 .elementor-element.elementor-element-8fdf5ef i{
+    margin-top: -3px;
+}/* End custom CSS */

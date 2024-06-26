@@ -1,0 +1,5 @@
+function current_url(){var current_url=window.location.href;var res_currenturl=current_url.split("/?");var currenturl="";if(res_currenturl.length==2){currenturl=res_currenturl[0].split("&")}else{currenturl=window.location.href}
+if(jQuery('#nf-field-67').length){jQuery("#nf-field-67").val(currenturl).trigger('change');console.log('URL-actual '+currenturl);console.log(jQuery("#nf-field-66").val())}}
+function loadvars(){var url=window.location.href;var prevUrl=document.referrer;var res_url=url.split("/?");var gclid="";var utms="";if(res_url.length==2){utms=res_url[1].split("&")}
+for(let i=0;i<utms.length;i++){var resultado_url=utms[i].split("=");if(resultado_url[0]=='gclid'){gclid=resultado_url[1]}}
+if(jQuery("#nf-field-70").length){jQuery("#nf-field-70").val(gclid).trigger("change");console.log("Gclid: "+gclid)}}

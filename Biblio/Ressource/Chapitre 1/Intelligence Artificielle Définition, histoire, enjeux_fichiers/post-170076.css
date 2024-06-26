@@ -1,0 +1,25 @@
+.elementor-170076 .elementor-element.elementor-element-58a6190{--display:flex;--flex-direction:row;--container-widget-width:initial;--container-widget-height:100%;--container-widget-flex-grow:1;--container-widget-align-self:stretch;--gap:0px;--background-transition:0.3s;}.elementor-170076 .elementor-element.elementor-element-2e00af1{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-170076 .elementor-element.elementor-element-2e00af1.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-170076 .elementor-element.elementor-element-9575dc9.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-170076 .elementor-element.elementor-element-de56555{--display:flex;--flex-direction:column;--container-widget-width:100%;--container-widget-height:initial;--container-widget-flex-grow:0;--container-widget-align-self:initial;--background-transition:0.3s;}.elementor-170076 .elementor-element.elementor-element-de56555.e-con{--flex-grow:0;--flex-shrink:0;}.elementor-170076 .elementor-element.elementor-element-1cdbe32{text-align:left;color:#000000;}.elementor-170076 .elementor-element.elementor-element-1cdbe32.elementor-element{--flex-grow:0;--flex-shrink:0;}.elementor-170076 .elementor-element.elementor-element-23d1180 .elementor-button .elementor-align-icon-right{margin-left:0px;}.elementor-170076 .elementor-element.elementor-element-23d1180 .elementor-button .elementor-align-icon-left{margin-right:0px;}.elementor-170076 .elementor-element.elementor-element-23d1180 .elementor-button{background-color:#A428DD;border-style:none;border-radius:3px 3px 3px 3px;}.elementor-170076 .elementor-element.elementor-element-23d1180.elementor-element{--flex-grow:0;--flex-shrink:0;}#elementor-popup-modal-170076 .dialog-message{width:416px;height:212px;align-items:flex-end;}#elementor-popup-modal-170076{justify-content:flex-start;align-items:flex-end;}#elementor-popup-modal-170076 .dialog-close-button{display:flex;top:15px;background-color:#F6F3E6;font-size:24px;}#elementor-popup-modal-170076 .dialog-widget-content{animation-duration:1.2s;background-color:#F6F3E6;border-radius:10px 10px 10px 10px;box-shadow:0px 18px 24px 20px rgba(0, 0, 0, 0.07);margin:110px 0px 0px 0px;}#elementor-popup-modal-170076 .dialog-close-button i{color:var( --e-global-color-primary );}#elementor-popup-modal-170076 .dialog-close-button svg{fill:var( --e-global-color-primary );}@media(max-width:1120px){.elementor-170076 .elementor-element.elementor-element-9575dc9{width:var( --container-widget-width, 98.328px );max-width:98.328px;--container-widget-width:98.328px;--container-widget-flex-grow:0;}.elementor-170076 .elementor-element.elementor-element-1cdbe32{width:var( --container-widget-width, 246.656px );max-width:246.656px;--container-widget-width:246.656px;--container-widget-flex-grow:0;}.elementor-170076 .elementor-element.elementor-element-23d1180{width:var( --container-widget-width, 171px );max-width:171px;--container-widget-width:171px;--container-widget-flex-grow:0;}#elementor-popup-modal-170076{align-items:flex-end;}#elementor-popup-modal-170076 .dialog-widget-content{margin:85px 0px 0px 0px;}}@media(min-width:768px){.elementor-170076 .elementor-element.elementor-element-2e00af1{--width:33.3333%;}.elementor-170076 .elementor-element.elementor-element-de56555{--width:66.6666%;}}@media(max-width:1120px) and (min-width:768px){.elementor-170076 .elementor-element.elementor-element-2e00af1{--width:105.328px;}}@media(max-width:767px){.elementor-170076 .elementor-element.elementor-element-2e00af1{--width:111px;}.elementor-170076 .elementor-element.elementor-element-de56555{--width:178px;}.elementor-170076 .elementor-element.elementor-element-1cdbe32{text-align:left;}#elementor-popup-modal-170076 .dialog-message{width:200px;height:341px;}#elementor-popup-modal-170076 .dialog-close-button{top:13px;}#elementor-popup-modal-170076 .dialog-widget-content{margin:0px 0px 0px 0px;}}/* Start custom CSS for html, class: .elementor-element-9575dc9 */img 
+{
+    width: 80%;
+    height: 80%;
+    float: center;
+    margin-left: 10px;
+}/* End custom CSS */
+/* Start custom CSS for text-editor, class: .elementor-element-1cdbe32 */.elementor-170076 .elementor-element.elementor-element-1cdbe32 strong 
+{
+    color: #A428DD;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-23d1180 */.elementor-170076 .elementor-element.elementor-element-23d1180 {
+
+    width: 170px;
+
+}
+
+span 
+{
+    margin-left: 4px;
+}/* End custom CSS */
+/* Start custom CSS */#elementor-popup-modal-170076 {
+    margin-left: 15px;
+    margin-bottom: 15px;
+}/* End custom CSS */

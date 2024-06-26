@@ -1,0 +1,2314 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.28)  26 JUN 2024 00:04
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**01-Resume.tex
+(./01-Resume.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.3 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 3--3
+[] 
+ []
+
+
+Overfull \hbox (61.39584pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 Pr^^Sediction 
+ []
+
+
+Overfull \hbox (13.65971pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 de 
+ []
+
+
+Overfull \hbox (44.98335pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 r^^Seussite 
+ []
+
+
+Overfull \hbox (13.65971pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 de 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 li- 
+ []
+
+
+Overfull \hbox (31.81943pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 cence 
+ []
+
+
+Overfull \hbox (54.31943pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 ^^Seconomie 
+ []
+
+
+Overfull \hbox (6.5625pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 ^^Ra 
+ []
+
+
+Overfull \hbox (36.68059pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 l'UNZ 
+ []
+
+
+Overfull \hbox (19.5764pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 par 
+ []
+
+
+Overfull \hbox (73.60414pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 l'intelligence 
+ []
+
+
+Overfull \hbox (16.5764pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 ar- 
+ []
+
+
+Overfull \hbox (13.5pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 ti- 
+ []
+
+
+Overfull \hbox (12.0pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 fi- 
+ []
+
+
+Overfull \hbox (29.56943pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/12 cielle 
+ []
+
+
+! LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10   \begin{spacing}
+                      {0.05}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 10--11
+ []\OT1/cmr/m/n/12 0.05 
+ []
+
+
+Overfull \hbox (200.0pt too wide) in paragraph at lines 10--11
+ [] 
+ []
+
+
+Overfull \hbox (200.0pt too wide) in paragraph at lines 12--12
+ [][] 
+ []
+
+
+! LaTeX Error: \begin{center} on input line 3 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13   \end{spacing}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.19   \begin{spacing}
+                      {0.05}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (120.65489pt too wide) in paragraph at lines 17--20
+ []\OT1/cmr/bx/n/14.4 Paroguenssaongo 
+ []
+
+
+Overfull \hbox (49.17497pt too wide) in paragraph at lines 17--20
+ \OT1/cmr/bx/n/14.4 Rom^^Seo 
+ []
+
+
+Overfull \hbox (96.08327pt too wide) in paragraph at lines 17--20
+ \OT1/cmr/bx/n/14.4 SAWADOGO 
+ []
+
+
+Overfull \hbox (25.06635pt too wide) in paragraph at lines 17--20
+ \OT1/cmr/m/n/14.4 0.05 
+ []
+
+
+Overfull \hbox (200.0pt too wide) in paragraph at lines 17--20
+ [] 
+ []
+
+
+Overfull \hbox (200.0pt too wide) in paragraph at lines 21--21
+ [][] 
+ []
+
+
+! LaTeX Error: \begin{center} on input line 3 ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.22   \end{spacing}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 28.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 28.
+
+! LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 \begin{spacing}
+                    {1}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 \end{spacing}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (70.2139pt too wide) in paragraph at lines 28--38
+[]$[]$ 
+ []
+
+
+Overfull \hbox (13.21654pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 La
+ []
+
+
+Overfull \hbox (51.56891pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pr^^Sediction
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de
+ []
+
+
+Overfull \hbox (9.1388pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 la
+ []
+
+
+Overfull \hbox (38.64404pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 r^^Seussite
+ []
+
+
+Overfull \hbox (59.72855pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 acad^^Semique
+ []
+
+
+Overfull \hbox (16.38455pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 des
+ []
+
+
+Overfull \hbox (47.39117pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Setudiants
+ []
+
+
+Overfull \hbox (14.42624pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 est
+ []
+
+
+Overfull \hbox (13.05542pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 un
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 en-
+ []
+
+
+Overfull \hbox (15.34012pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 jeu
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cru-
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cial
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 en
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Sci-
+ []
+
+
+Overfull \hbox (26.82889pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ences
+ []
+
+
+Overfull \hbox (67.13542pt too wide) in paragraph at lines 28--38
+[]\OT1/cmr/m/n/12 Economiques
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 et
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de
+ []
+
+
+Overfull \hbox (22.99283pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Ges-
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tion
+ []
+
+
+Overfull \hbox (36.14409pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 (SEG).
+ []
+
+
+Overfull \hbox (28.06915pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Cette
+ []
+
+
+Overfull \hbox (47.65228pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 recherche
+ []
+
+
+Overfull \hbox (19.32202pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 vise
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Ra
+ []
+
+
+Overfull \hbox (55.15915pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 d^^Sevelopper
+ []
+
+
+Overfull \hbox (13.05542pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 un
+ []
+
+
+Overfull \hbox (36.22879pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 mod^^Rele
+ []
+
+
+Overfull \hbox (42.7565pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pr^^Sedictif
+ []
+
+
+Overfull \hbox (23.82614pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pour
+ []
+
+
+Overfull \hbox (25.45807pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 iden-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fier
+ []
+
+
+Overfull \hbox (13.1207pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 les
+ []
+
+
+Overfull \hbox (47.39117pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Setudiants
+ []
+
+
+Overfull \hbox (19.71368pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 sus-
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cep-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (19.6484pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 bles
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de
+ []
+
+
+Overfull \hbox (33.42188pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 r^^Seussir
+ []
+
+
+Overfull \hbox (19.58313pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 leur
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 li-
+ []
+
+
+Overfull \hbox (27.41638pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cence
+ []
+
+
+Overfull \hbox (46.99951pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Seconomie
+ []
+
+
+Overfull \hbox (16.38455pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 d^^Res
+ []
+
+
+Overfull \hbox (9.1388pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 la
+ []
+
+
+Overfull \hbox (44.38843pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 premi^^Rere
+ []
+
+
+Overfull \hbox (32.63855pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ann^^See,
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 en
+ []
+
+
+Overfull \hbox (21.54144pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 util-
+ []
+
+
+Overfull \hbox (24.54419pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 isant
+ []
+
+
+Overfull \hbox (16.38455pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 des
+ []
+
+
+Overfull \hbox (25.13168pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tech-
+ []
+
+
+Overfull \hbox (32.37744pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 niques
+ []
+
+
+Overfull \hbox (43.80093pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 avanc^^Sees
+ []
+
+
+Overfull \hbox (66.90903pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 d'intelligence
+ []
+
+
+Overfull \hbox (14.36096pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ar-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fi-
+ []
+
+
+Overfull \hbox (25.45807pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cielle
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 et
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de
+ []
+
+
+Overfull \hbox (19.58313pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ma-
+ []
+
+
+Overfull \hbox (26.43723pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 chine
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 learn-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (15.73178pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 sur
+ []
+
+
+Overfull \hbox (16.38455pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 des
+ []
+
+
+Overfull \hbox (40.53708pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 donn^^Sees
+ []
+
+
+Overfull \hbox (35.9024pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 comme
+ []
+
+
+Overfull \hbox (13.1207pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 les
+ []
+
+
+Overfull \hbox (26.82889pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 notes
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 et
+ []
+
+
+Overfull \hbox (35.9024pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 l'ann^^See
+ []
+
+
+Overfull \hbox (58.423pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 d'obtention
+ []
+
+
+Overfull \hbox (13.05542pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 du
+ []
+
+
+Overfull \hbox (28.55249pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 BAC.
+ []
+
+
+Overfull \hbox (29.76219pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Apr^^Res
+ []
+
+
+Overfull \hbox (9.1388pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 la
+ []
+
+
+Overfull \hbox (18.27759pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 col-
+ []
+
+
+Overfull \hbox (23.49976pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 lecte
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 et
+ []
+
+
+Overfull \hbox (8.48602pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 le
+ []
+
+
+Overfull \hbox (70.17288pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pr^^Setraitement
+ []
+
+
+Overfull \hbox (16.38455pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 des
+ []
+
+
+Overfull \hbox (43.80093pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 donn^^Sees,
+ []
+
+
+Overfull \hbox (30.09274pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 divers
+ []
+
+
+Overfull \hbox (13.05542pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 al-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 go-
+ []
+
+
+Overfull \hbox (38.57877pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 rithmes
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de
+ []
+
+
+Overfull \hbox (19.58313pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ma-
+ []
+
+
+Overfull \hbox (26.43723pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 chine
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 learn-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (16.64566pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ont
+ []
+
+
+Overfull \hbox (15.01373pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Set^^Se
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 en-
+ []
+
+
+Overfull \hbox (34.66214pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tra^^^Pn^^Ses
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 et
+ []
+
+
+Overfull \hbox (36.29407pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Sevalu^^Ses
+ []
+
+
+Overfull \hbox (15.34012pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 via
+ []
+
+
+Overfull \hbox (16.38455pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 des
+ []
+
+
+Overfull \hbox (50.00226pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 m^^Setriques
+ []
+
+
+Overfull \hbox (26.17612pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 telles
+ []
+
+
+Overfull \hbox (17.9512pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 que
+ []
+
+
+Overfull \hbox (9.1388pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 la
+ []
+
+
+Overfull \hbox (48.37033pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pr^^Secision,
+ []
+
+
+Overfull \hbox (8.48602pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 le
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 rap-
+ []
+
+
+Overfull \hbox (18.60397pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pel,
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 et
+ []
+
+
+Overfull \hbox (8.48602pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 le
+ []
+
+
+Overfull \hbox (17.45955pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 F1-
+ []
+
+
+Overfull \hbox (28.7872pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 score.
+ []
+
+
+Overfull \hbox (22.19421pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Cer-
+ []
+
+
+Overfull \hbox (24.87057pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tains
+ []
+
+
+Overfull \hbox (40.86346pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 mod^^Reles
+ []
+
+
+Overfull \hbox (9.85684pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 se
+ []
+
+
+Overfull \hbox (21.28033pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 sont
+ []
+
+
+Overfull \hbox (34.33575pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 r^^Sev^^Sel^^Ses
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 par-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (9.1388pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 c-
+ []
+
+
+Overfull \hbox (53.8536pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 uli^^Rerement
+ []
+
+
+Overfull \hbox (12.72903pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ef-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fi-
+ []
+
+
+Overfull \hbox (26.17612pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 caces
+ []
+
+
+Overfull \hbox (23.82614pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pour
+ []
+
+
+Overfull \hbox (25.45807pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 iden-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fier
+ []
+
+
+Overfull \hbox (13.1207pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 les
+ []
+
+
+Overfull \hbox (47.39117pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Setudiants
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Ra
+ []
+
+
+Overfull \hbox (30.41913pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 risque
+ []
+
+
+Overfull \hbox (40.14542pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 d'^^Sechec.
+ []
+
+
+Overfull \hbox (18.4387pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 En-
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fin,
+ []
+
+
+Overfull \hbox (18.27759pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 une
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ap-
+ []
+
+
+Overfull \hbox (16.97205pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pli-
+ []
+
+
+Overfull \hbox (15.01373pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ca-
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tion
+ []
+
+
+Overfull \hbox (19.90952pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 web
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 a
+ []
+
+
+Overfull \hbox (15.01373pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ^^Set^^Se
+ []
+
+
+Overfull \hbox (55.48553pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 d^^Sevelopp^^See
+ []
+
+
+Overfull \hbox (23.82614pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pour
+ []
+
+
+Overfull \hbox (20.56229pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 per-
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 me-
+ []
+
+
+Overfull \hbox (8.48602pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 t-
+ []
+
+
+Overfull \hbox (14.36096pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tre
+ []
+
+
+Overfull \hbox (18.27759pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 une
+ []
+
+
+Overfull \hbox (21.54144pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 util-
+ []
+
+
+Overfull \hbox (7.18048pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 i-
+ []
+
+
+Overfull \hbox (14.42624pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 sa-
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tion
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pra-
+ []
+
+
+Overfull \hbox (25.78445pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tique
+ []
+
+
+Overfull \hbox (13.05542pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 du
+ []
+
+
+Overfull \hbox (36.22879pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 mod^^Rele
+ []
+
+
+Overfull \hbox (46.02036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pr^^Sedictif. 
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 1
+ []
+
+
+Overfull \hbox (59.61531pt too wide) in paragraph at lines 28--38
+[]$
+ []
+
+
+Overfull \hbox (14.68318pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 In-
+ []
+
+
+Overfull \hbox (16.97205pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tel-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 li-
+ []
+
+
+Overfull \hbox (28.06915pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 gence
+ []
+
+
+Overfull \hbox (14.36096pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ar-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fi-
+ []
+
+
+Overfull \hbox (25.45807pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cielle
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 {
+ []
+
+
+Overfull \hbox (20.55812pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Ma-
+ []
+
+
+Overfull \hbox (26.43723pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 chine
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 learn-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 {
+ []
+
+
+Overfull \hbox (53.03557pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Pr^^Sediction
+ []
+
+
+Overfull \hbox (59.72855pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 acad^^Semique
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 {
+ []
+
+
+Overfull \hbox (49.77171pt too wide) in paragraph at lines 28--38
+[]\OT1/cmr/m/n/12 Economie
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 {
+ []
+
+
+Overfull \hbox (18.4387pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 En-
+ []
+
+
+Overfull \hbox (34.66214pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 seigne-
+ []
+
+
+Overfull \hbox (25.78445pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ment
+ []
+
+
+Overfull \hbox (50.32864pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 sup^^Serieur. 
+ []
+
+
+Overfull \hbox (59.84586pt too wide) in paragraph at lines 28--38
+$[]$ 
+ []
+
+
+Overfull \hbox (53.03557pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Predicting
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 aca-
+ []
+
+
+Overfull \hbox (30.02747pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 demic
+ []
+
+
+Overfull \hbox (20.30118pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 suc-
+ []
+
+
+Overfull \hbox (19.71368pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cess
+ []
+
+
+Overfull \hbox (9.46518pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 of
+ []
+
+
+Overfull \hbox (19.6484pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 stu-
+ []
+
+
+Overfull \hbox (27.15527pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 dents
+ []
+
+
+Overfull \hbox (7.89853pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 is
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 a
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cru-
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cial
+ []
+
+
+Overfull \hbox (11.81516pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 is-
+ []
+
+
+Overfull \hbox (16.38455pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 sue
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 in
+ []
+
+
+Overfull \hbox (23.0081pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Eco-
+ []
+
+
+Overfull \hbox (35.31491pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 nomics
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (27.08583pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Man-
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 age-
+ []
+
+
+Overfull \hbox (25.78445pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ment
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Sci-
+ []
+
+
+Overfull \hbox (26.82889pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ences
+ []
+
+
+Overfull \hbox (36.14409pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 (SEG).
+ []
+
+
+Overfull \hbox (22.91226pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 This
+ []
+
+
+Overfull \hbox (13.70819pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 re-
+ []
+
+
+Overfull \hbox (31.72467pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 search
+ []
+
+
+Overfull \hbox (23.56503pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 aims
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 to
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de-
+ []
+
+
+Overfull \hbox (26.76361pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 velop
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 a
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pre-
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 dic-
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tive
+ []
+
+
+Overfull \hbox (31.00662pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 model
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 to
+ []
+
+
+Overfull \hbox (25.45807pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 iden-
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tify
+ []
+
+
+Overfull \hbox (19.6484pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 stu-
+ []
+
+
+Overfull \hbox (27.15527pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 dents
+ []
+
+
+Overfull \hbox (27.09pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 likely
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 to
+ []
+
+
+Overfull \hbox (20.30118pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 suc-
+ []
+
+
+Overfull \hbox (22.19421pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ceed
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 in
+ []
+
+
+Overfull \hbox (24.15253pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 their
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 eco-
+ []
+
+
+Overfull \hbox (35.31491pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 nomics
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de-
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 gree
+ []
+
+
+Overfull \hbox (23.82614pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 from
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (20.30118pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 first
+ []
+
+
+Overfull \hbox (24.8053pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 year,
+ []
+
+
+Overfull \hbox (15.07901pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 us-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ad-
+ []
+
+
+Overfull \hbox (34.92325pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 vanced
+ []
+
+
+Overfull \hbox (14.36096pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ar-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fi-
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cial
+ []
+
+
+Overfull \hbox (13.70819pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 in-
+ []
+
+
+Overfull \hbox (16.97205pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tel-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 li-
+ []
+
+
+Overfull \hbox (28.06915pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 gence
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (19.58313pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ma-
+ []
+
+
+Overfull \hbox (26.43723pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 chine
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 learn-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (25.13168pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tech-
+ []
+
+
+Overfull \hbox (32.37744pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 niques
+ []
+
+
+Overfull \hbox (12.40265pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 on
+ []
+
+
+Overfull \hbox (22.84698pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 data
+ []
+
+
+Overfull \hbox (22.58588pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 such
+ []
+
+
+Overfull \hbox (10.50961pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 as
+ []
+
+
+Overfull \hbox (32.70383pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 grades
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (21.54144pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 year
+ []
+
+
+Overfull \hbox (9.46518pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 of
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ob-
+ []
+
+
+Overfull \hbox (24.15253pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tain-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de-
+ []
+
+
+Overfull \hbox (24.15253pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 gree.
+ []
+
+
+Overfull \hbox (28.55249pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 BAC.
+ []
+
+
+Overfull \hbox (16.31511pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Af-
+ []
+
+
+Overfull \hbox (14.36096pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ter
+ []
+
+
+Overfull \hbox (22.84698pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 data
+ []
+
+
+Overfull \hbox (18.27759pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 col-
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 lec-
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tion
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pre-
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pro-
+ []
+
+
+Overfull \hbox (23.63031pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cess-
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing,
+ []
+
+
+Overfull \hbox (19.90952pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 var-
+ []
+
+
+Overfull \hbox (7.18048pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 i-
+ []
+
+
+Overfull \hbox (17.03732pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ous
+ []
+
+
+Overfull \hbox (19.58313pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ma-
+ []
+
+
+Overfull \hbox (26.43723pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 chine
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 learn-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (13.05542pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 al-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 go-
+ []
+
+
+Overfull \hbox (33.3566pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 rithms
+ []
+
+
+Overfull \hbox (23.17337pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 were
+ []
+
+
+Overfull \hbox (36.55518pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 trained
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (23.82614pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 eval-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 u-
+ []
+
+
+Overfull \hbox (22.19421pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ated
+ []
+
+
+Overfull \hbox (15.34012pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 via
+ []
+
+
+Overfull \hbox (23.49976pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 met-
+ []
+
+
+Overfull \hbox (17.6901pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 rics
+ []
+
+
+Overfull \hbox (22.58588pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 such
+ []
+
+
+Overfull \hbox (10.50961pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 as
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pre-
+ []
+
+
+Overfull \hbox (12.40265pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ci-
+ []
+
+
+Overfull \hbox (23.56503pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 sion,
+ []
+
+
+Overfull \hbox (13.70819pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 re-
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 call,
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 and
+ []
+
+
+Overfull \hbox (17.45955pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 F1-
+ []
+
+
+Overfull \hbox (28.7872pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 score.
+ []
+
+
+Overfull \hbox (27.41638pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Some
+ []
+
+
+Overfull \hbox (26.43723pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 mod-
+ []
+
+
+Overfull \hbox (13.1207pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 els
+ []
+
+
+Overfull \hbox (23.17337pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 have
+ []
+
+
+Overfull \hbox (34.27048pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 proven
+ []
+
+
+Overfull \hbox (20.88867pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 par-
+ []
+
+
+Overfull \hbox (16.97205pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tic-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 u-
+ []
+
+
+Overfull \hbox (23.17337pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 larly
+ []
+
+
+Overfull \hbox (12.72903pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ef-
+ []
+
+
+Overfull \hbox (17.9512pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fec-
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tive
+ []
+
+
+Overfull \hbox (9.79156pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 in
+ []
+
+
+Overfull \hbox (25.45807pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 iden-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (13.70819pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fy-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (19.6484pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 stu-
+ []
+
+
+Overfull \hbox (27.15527pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 dents
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 at
+ []
+
+
+Overfull \hbox (18.66925pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 risk
+ []
+
+
+Overfull \hbox (9.46518pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 of
+ []
+
+
+Overfull \hbox (19.90952pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 fail-
+ []
+
+
+Overfull \hbox (19.58313pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ure.
+ []
+
+
+Overfull \hbox (14.84846pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 Fi-
+ []
+
+
+Overfull \hbox (27.41638pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 nally,
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 a
+ []
+
+
+Overfull \hbox (19.90952pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 web
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ap-
+ []
+
+
+Overfull \hbox (16.97205pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pli-
+ []
+
+
+Overfull \hbox (15.01373pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ca-
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tion
+ []
+
+
+Overfull \hbox (18.66925pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 was
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 de-
+ []
+
+
+Overfull \hbox (18.27759pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 vel-
+ []
+
+
+Overfull \hbox (24.47891pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 oped
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 to
+ []
+
+
+Overfull \hbox (13.05542pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 al-
+ []
+
+
+Overfull \hbox (17.29843pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 low
+ []
+
+
+Overfull \hbox (26.11084pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 prac-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (14.36096pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 cal
+ []
+
+
+Overfull \hbox (16.38455pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 use
+ []
+
+
+Overfull \hbox (9.46518pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 of
+ []
+
+
+Overfull \hbox (16.31927pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 the
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 pre-
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 dic-
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 tive
+ []
+
+
+Overfull \hbox (34.27048pt too wide) in paragraph at lines 28--38
+\OT1/cmr/m/n/12 model. 
+ []
+
+
+Underfull \vbox (badness 6396) has occurred while \output is active []
+
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 \par
+         
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+! LaTeX Error: Environment spacing undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.39 \begin{spacing}
+                    {1}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{document} ended by \end{spacing}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{spacing}
+                  
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (25.87494pt too wide) in paragraph at lines 39--42
+[]\OT1/cmr/m/n/12 1
+ []
+
+
+Overfull \hbox (66.56807pt too wide) in paragraph at lines 39--42
+[]$
+ []
+
+
+Overfull \hbox (17.29427pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 Ar-
+ []
+
+
+Overfull \hbox (11.74988pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 ti-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 fi-
+ []
+
+
+Overfull \hbox (17.62482pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 cial
+ []
+
+
+Overfull \hbox (13.70819pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 in-
+ []
+
+
+Overfull \hbox (16.97205pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 tel-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 li-
+ []
+
+
+Overfull \hbox (28.06915pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 gence
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 {
+ []
+
+
+Overfull \hbox (20.55812pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 Ma-
+ []
+
+
+Overfull \hbox (26.43723pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 chine
+ []
+
+
+Overfull \hbox (29.3747pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 learn-
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 ing
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 {
+ []
+
+
+Overfull \hbox (23.82198pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 Aca-
+ []
+
+
+Overfull \hbox (30.02747pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 demic
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 pre-
+ []
+
+
+Overfull \hbox (18.93036pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 dic-
+ []
+
+
+Overfull \hbox (20.2359pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 tion
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 {
+ []
+
+
+Overfull \hbox (29.53581pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 Econ-
+ []
+
+
+Overfull \hbox (21.54144pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 omy
+ []
+
+
+Overfull \hbox (5.87494pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 {
+ []
+
+
+Overfull \hbox (34.26631pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 Higher
+ []
+
+
+Overfull \hbox (15.6665pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 ed-
+ []
+
+
+Overfull \hbox (10.44434pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 u-
+ []
+
+
+Overfull \hbox (15.01373pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 ca-
+ []
+
+
+Overfull \hbox (23.49976pt too wide) in paragraph at lines 39--42
+\OT1/cmr/m/n/12 tion. 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 \clearpage
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2])
+! Emergency stop.
+<*> 01-Resume.tex
+                 
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 52 strings out of 478287
+ 786 string characters out of 5849289
+ 307762 words of memory out of 5000000
+ 18338 multiletter control sequences out of 15000+600000
+ 472907 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 24i,5n,25p,905b,206s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!

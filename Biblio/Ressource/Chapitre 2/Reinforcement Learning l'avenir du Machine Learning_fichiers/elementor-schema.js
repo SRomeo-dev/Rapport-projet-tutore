@@ -1,0 +1,1 @@
+(function($){var WidgetElementorFaqSchemaHandler=function($scope,$){console.log($scope);};$(window).on('elementor/frontend/init',function(){elementorFrontend.hooks.addAction('frontend/element_ready/elementor-faq-schema.default',WidgetElementorFaqSchemaHandler);});})(jQuery);

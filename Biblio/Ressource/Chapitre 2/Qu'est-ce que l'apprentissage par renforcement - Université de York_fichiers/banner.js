@@ -1,0 +1,3 @@
+jQuery('.message-prompt').on('click',function(e){e.preventDefault();jQuery('.message-prompt-modal').toggleClass('message-prompt-modal-hidden')});jQuery('.message-prompt-modal').on('click',function(e){if(!jQuery(e.target).closest('a').length){e.preventDefault()}
+jQuery(this).toggleClass('message-prompt-modal-hidden')});if(jQuery('.av_header_sticky').length>0){jQuery(window).on('scroll',function(){var scroll=jQuery(window).scrollTop();if(jQuery(window).outerWidth()<986){jQuery('.message-prompt').css('marginTop','0');return!1}
+if(scroll>jQuery('.message-prompt').height()){jQuery('.message-prompt').css('marginTop','-'+jQuery('.message-prompt').height()+'px')}else if(scroll===0){jQuery('.message-prompt').css('marginTop','0')}})}
