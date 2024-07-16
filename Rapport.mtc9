@@ -1,0 +1,20 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {I}Présentation de machine leaning}{\reset@font\mtcSfont 15}{section.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {I.1}Contexte}{\reset@font\mtcSSfont 15}{subsection.2.1.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {I.2}Définition}{\reset@font\mtcSSfont 15}{subsection.2.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {I.3}Rôle de machine learning dans l'intelligence artificielle}{\reset@font\mtcSSfont 16}{subsection.2.1.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {II}Fonctionnement de machine learning}{\reset@font\mtcSfont 16}{section.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {II.1}Collecte de données}{\reset@font\mtcSSfont 16}{subsection.2.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {II.2}Prétraitement des données}{\reset@font\mtcSSfont 16}{subsection.2.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {II.3}Entraînement de modèle}{\reset@font\mtcSSfont 17}{subsection.2.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {II.4}Évaluation du modèle}{\reset@font\mtcSSfont 17}{subsection.2.2.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {III}Classification des approches de machine learning et leurs algorithmes}{\reset@font\mtcSfont 18}{section.2.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {III.1}Apprentissage supervisé}{\reset@font\mtcSSfont 18}{subsection.2.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {III.1.1}Les algorithmes de classification}{\reset@font\mtcSSSfont 19}{subsubsection.2.3.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {III.1.2}Les algorithmes de régression}{\reset@font\mtcSSSfont 20}{subsubsection.2.3.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {III.2}Apprentissage non supervisé}{\reset@font\mtcSSfont 20}{subsection.2.3.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {III.2.1}Les algorithmes de partitionnement ou le Clustering}{\reset@font\mtcSSSfont 21}{subsubsection.2.3.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {III.2.2}Les algorithmes de la réduction de la dimensionnalité}{\reset@font\mtcSSSfont 21}{subsubsection.2.3.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {III.3}Apprentissage par renforcement}{\reset@font\mtcSSfont 22}{subsection.2.3.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {III.3.1}Apprentissage par renforcement Axé sur un Modèle (Model-Based RL)}{\reset@font\mtcSSSfont 23}{subsubsection.2.3.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {III.3.2}Apprentissage par renforcement sans Modèle (Model-Free RL)}{\reset@font\mtcSSSfont 23}{subsubsection.2.3.3.2}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {IV}Conclusion}{\reset@font\mtcSfont 24}{section.2.4}}

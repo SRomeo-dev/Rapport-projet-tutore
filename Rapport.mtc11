@@ -1,0 +1,25 @@
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {I}Environnement de développement}{\reset@font\mtcSfont 40}{section.4.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {I.1}Outils de développement}{\reset@font\mtcSSfont 40}{subsection.4.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.1.1}Le langage python}{\reset@font\mtcSSSfont 40}{subsubsection.4.1.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.1.2}Visual Studio Code (VS Code)}{\reset@font\mtcSSSfont 41}{subsubsection.4.1.1.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.1.3}Jupyter Notebook}{\reset@font\mtcSSSfont 41}{subsubsection.4.1.1.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {I.2}Bibliothèques et librairie utilisées}{\reset@font\mtcSSfont 41}{subsection.4.1.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.2.1}NumPy}{\reset@font\mtcSSSfont 42}{subsubsection.4.1.2.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.2.2}Pandas}{\reset@font\mtcSSSfont 42}{subsubsection.4.1.2.2}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.2.3}Matplotlib}{\reset@font\mtcSSSfont 42}{subsubsection.4.1.2.3}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.2.4}Seaborn}{\reset@font\mtcSSSfont 43}{subsubsection.4.1.2.4}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.2.5}Scikit-learn}{\reset@font\mtcSSSfont 43}{subsubsection.4.1.2.5}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {I.2.6}Flask}{\reset@font\mtcSSSfont 43}{subsubsection.4.1.2.6}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {I.3}Configuration des Outils et des Paramètres}{\reset@font\mtcSSfont 44}{subsection.4.1.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {II}Présentation du modèle implémenté}{\reset@font\mtcSfont 44}{section.4.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {II.1}Architecture du modèle implémenté}{\reset@font\mtcSSfont 44}{subsection.4.2.1}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {II.2}Implémentation du modèle}{\reset@font\mtcSSfont 45}{subsection.4.2.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {II.3}Développement de l’application Web}{\reset@font\mtcSSfont 45}{subsection.4.2.3}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {III}Résultats et discussions}{\reset@font\mtcSfont 46}{section.4.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {III.1}Métrique et évaluation des modèles entraînés}{\reset@font\mtcSSfont 46}{subsection.4.3.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {III.1.1}Métrique de la performance}{\reset@font\mtcSSSfont 46}{subsubsection.4.3.1.1}}
+{\reset@font\mtcSSSfont\mtc@string\contentsline{subsubsection}{\noexpand \leavevmode \numberline {III.1.2}Évaluation des algorithmes entraînés}{\reset@font\mtcSSSfont 48}{subsubsection.4.3.1.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {III.2}Déploiement du modèle}{\reset@font\mtcSSfont 52}{subsection.4.3.2}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {III.3}Résultat de l'application}{\reset@font\mtcSSfont 53}{subsection.4.3.3}}
+{\reset@font\mtcSSfont\mtc@string\contentsline{subsection}{\noexpand \leavevmode \numberline {III.4}Perspectives futures}{\reset@font\mtcSSfont 56}{subsection.4.3.4}}
+{\reset@font\mtcSfont\mtc@string\contentsline{section}{\noexpand \leavevmode \numberline {IV}Conclusion}{\reset@font\mtcSfont 57}{section.4.4}}
